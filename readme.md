@@ -1,6 +1,4 @@
 # Loan Data from Prosper
-## by Piyush Kumar
-
 
 ## Dataset
 
